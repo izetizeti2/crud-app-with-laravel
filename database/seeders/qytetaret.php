@@ -19,6 +19,6 @@ class qytetaret extends Seeder
             ['emri' => 'Rinesa','mbiemri' => 'Krasniqi','gjinia' => 'F','viti_i_lindjes' => '2004','qyteti_id' => '2'],  
             ['emri' => 'Engjellushe','mbiemri' => 'Krasniqi','gjinia' => 'F','viti_i_lindjes' => '2004','qyteti_id' => '1'],  
             ['emri' => 'Gent','mbiemri' => 'Karaxhiu','gjinia' => 'M','viti_i_lindjes' => '1992','qyteti_id' => '3']
-            ]);
+            ]);   
     }
 }
