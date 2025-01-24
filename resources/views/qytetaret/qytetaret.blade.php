@@ -68,7 +68,7 @@
                 <td class="border-b border-gray-200 px-6 py-4 text-left text-sm font-medium text-gray-800">{{ $qytetar->emri }}</td>
                 <td class="border-b border-gray-200 px-6 py-4 text-left text-sm font-medium text-gray-800">{{ $qytetar->mbiemri }}</td>
                 <td class="border-b border-gray-200 px-6 py-4 text-center text-sm font-medium text-gray-800">{{ $qytetar->gjinia }}</td>
-                <td class="border-b border-gray-200 px-6 py-4 text-center text-sm font-medium text-gray-800">{{ $qytetar->viti_i_lindjes }}</td>
+                <td class="border-b border-gray-200 px-6 py-4 text-left text-sm font-medium text-gray-800">{{ $qytetar->viti_i_lindjes }}</td>
                 <td class="border-b border-gray-200 px-6 py-4 text-center text-sm">
                     <div class="flex justify-center space-x-4">
                         <!-- Butoni Detajet -->
