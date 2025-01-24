@@ -14,13 +14,13 @@ class qytetet extends Seeder
     public function run(): void
     {
         DB::table('qytetet')->insert([
-        ['name' => 'Prishtina'],   
-        ['name' => 'Mitrovica'],   
-        ['name' => 'Peja'],   
-        ['name' => 'Prizreni'],   
-        ['name' => 'Ferizaji'],   
-        ['name' => 'Gjilani'],   
-        ['name' => 'Gjakova']
+        ['emri' => 'Prishtina'],   
+        ['emri' => 'Mitrovica'],   
+        ['emri' => 'Peja'],   
+        ['emri' => 'Prizreni'],   
+        ['emri' => 'Ferizaji'],   
+        ['emri' => 'Gjilani'],   
+        ['emri' => 'Gjakova']
         ]);
     }
 }
