@@ -30,7 +30,7 @@
 </header>
 
 <main class="container mx-auto px-6 py-8 flex-grow">
-    <h1 class="text-4xl font-extrabold text-gray-800 mb-6">Detajet e Qytetit: {{ $qytetet->name }}</h1>
+    <h1 class="text-4xl font-extrabold text-gray-800 mb-6">Detajet e Qytetit: {{ $qytetet->emri }}</h1>
 
     <div class="mb-4 flex items-center justify-between">
         <a href="{{ url('/qytetet/qytetet') }}" class="text-blue-500 hover:underline text-lg"> &larr; Kthehu tek tabela</a>
@@ -43,7 +43,7 @@
     </div>
 
     <div class="bg-white shadow-lg rounded-lg p-8">
-        <p class="text-lg mb-4"><strong>Emri i Qytetit:</strong> {{ $qytetet->name }}</p>
+        <p class="text-lg mb-4"><strong>Emri i Qytetit:</strong> {{ $qytetet->emri }}</p>
     </div>
 </main>
 

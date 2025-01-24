@@ -57,7 +57,7 @@
                 <th class="border-b-2 border-gray-300 px-6 py-4 text-left text-sm font-semibold">Emri</th>
                 <th class="border-b-2 border-gray-300 px-6 py-4 text-left text-sm font-semibold">Mbiemri</th>
                 <th class="border-b-2 border-gray-300 px-6 py-4 text-left text-sm font-semibold">Gjinia</th>
-                <th class="border-b-2 border-gray-300 px-6 py-4 text-left text-sm font-semibold">Viti i lindjes</th>
+                <th class="border-b-2 border-gray-300 px-6 py-4 text-center text-sm font-semibold">Viti i lindjes</th>
                 <th class="border-b-2 border-gray-300 px-6 py-4 text-center text-sm font-semibold">Actions</th>
             </tr>
         </thead>
